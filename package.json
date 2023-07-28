@@ -1,0 +1,22 @@
+{
+  "name":"Fabrikam",
+  "version": "1.0.0",
+  "description": "Fabrikam Node js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArjunGB24/Fabrikam.git"
+  },
+  "author": "Arjun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArjunGB24/Fabrikam/issues"
+  },
+  "homepage": "https://github.com/ArjunGB24/Fabrikam/blob/main/README.md",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
